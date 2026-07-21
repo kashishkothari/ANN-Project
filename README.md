@@ -1,12 +1,12 @@
 This project uses an Artificial Neural Network (ANN) to predict students' Annual Score based on their academic performance throughout the year. The dataset contains assessment scores from History and Geography subjects, along with student gender and final success status.
 
 
--Project Overview
+- Project Overview
 
 The objective of this project is to build a regression model using an Artificial Neural Network (ANN) that predicts a student's Annual Score using continuous assessment and examination marks.
 
 
--The project demonstrates:
+- The project demonstrates:
 
 Data preprocessing.
 
