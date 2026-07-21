@@ -1,4 +1,4 @@
-Students Annual Score Prediction using ANN
+# Students Annual Score Prediction using ANN
 
 
 This project uses an Artificial Neural Network (ANN) to predict students' Annual Score based on their academic performance throughout the year. The dataset contains assessment scores from History and Geography subjects, along with student gender and final success status.
@@ -51,7 +51,7 @@ This project was developed for educational purposes to demonstrate the applicati
 
 
 
-Customer Churn Prediction using Artificial Neural Network (ANN)
+# Customer Churn Prediction using Artificial Neural Network (ANN)
 
 
 - Project Overview:
